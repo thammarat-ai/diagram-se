@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2024-03-29T06:44:03.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="AFN5wahb8Mc2w__WRvsC" version="23.1.2" type="device">
+  <diagram name="Page-1" id="M-9k9LE5WLXcRPDOOkr0">
+    <mxGraphModel dx="1687" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="430" width="830" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="35" width="830" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-1" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Helvetica&quot;&gt;วิศวกรรมความต้องการ&lt;span style=&quot;color: rgb(31, 31, 31); font-size: 20px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;br&gt;(Requirement Engineering)&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="8" y="170" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;การออกแบบและการนำไปปฏิบัติ&lt;br&gt;(Design and implementation)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="588" y="170" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ข้อกำหนดความต้องการ (Requirements specifications)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="190" width="196" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.375;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IxsLdUFhimCYVSoMGgDT-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188" y="200" as="sourcePoint" />
+            <mxPoint x="238" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="238" y="200" />
+              <mxPoint x="228" y="100" />
+              <mxPoint x="148" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="IxsLdUFhimCYVSoMGgDT-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188" y="240" as="sourcePoint" />
+            <mxPoint x="238" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="484" y="239.58" as="sourcePoint" />
+            <mxPoint x="584" y="239.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.375;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="200" as="sourcePoint" />
+            <mxPoint x="658" y="167" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="200" />
+              <mxPoint x="810" y="100" />
+              <mxPoint x="730" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-10" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.463;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IxsLdUFhimCYVSoMGgDT-2" target="IxsLdUFhimCYVSoMGgDT-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="668" y="400" as="sourcePoint" />
+            <mxPoint x="718" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="668" y="340" />
+              <mxPoint x="238" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-13" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;การพัฒนาแนวทางแบบแผน (Plan-based development)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="670" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-22" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Helvetica&quot;&gt;วิศวกรรมความต้องการ&lt;span style=&quot;color: rgb(31, 31, 31); font-size: 20px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;br&gt;(Requirement Engineering)&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="8" y="560" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-23" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;การออกแบบและการนำไปปฏิบัติ&lt;br&gt;(Design and implementation)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="593" y="560" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.463;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IxsLdUFhimCYVSoMGgDT-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="673" y="790" as="sourcePoint" />
+            <mxPoint x="96.33999999999992" y="703.3599999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="673" y="730" />
+              <mxPoint x="243" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-31" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;การพัฒนาแบบอไจล์ (Agile development)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="440" width="510" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IxsLdUFhimCYVSoMGgDT-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IxsLdUFhimCYVSoMGgDT-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="103" y="560" as="sourcePoint" />
+            <mxPoint x="575" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="500" />
+              <mxPoint x="495" y="500" />
+              <mxPoint x="525" y="500" />
+              <mxPoint x="595" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

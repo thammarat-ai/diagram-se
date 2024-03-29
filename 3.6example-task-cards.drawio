@@ -1,0 +1,24 @@
+<mxfile host="Electron" modified="2024-03-29T07:06:12.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="FmDoR8glw30VFFxkSqxq" version="24.1.0" type="device">
+  <diagram name="Page-1" id="qxfh2uqBz7zO2CRZkP51">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aVC8Daal__mr3-iGPPfq-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;งานที่ 1 :&amp;nbsp;เปลี่ยนขนาดยาตามที่กำหนด&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="660" height="400" as="geometry">
+            <mxRectangle x="140" y="70" width="320" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aVC8Daal__mr3-iGPPfq-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;งานที่ 2: การเลือกสูตร&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="aVC8Daal__mr3-iGPPfq-1">
+          <mxGeometry x="20" y="30" width="640" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="aVC8Daal__mr3-iGPPfq-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;งานที่ 3: การตรวจสอบขนาดยา&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="aVC8Daal__mr3-iGPPfq-2">
+          <mxGeometry x="15" y="40" width="610" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="aVC8Daal__mr3-iGPPfq-4" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;การตรวจสอบขนาดยา (Dose checking) เป็นมาตรการด้านความปลอดภัย&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;เพื่อป้องกันมิให้แพทย์สั่งยามาในขนาดที่น้อยหรือมากเกินไปจนเป็นอันตราย&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;ระบบจะใช้รหัสยาตามบัญชี formulary ร่วมกับชื่อสามัญของยา&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;เพื่อค้นหาข้อมูลขนาดยาที่แนะนำทั้งสูงสุดและต่ำสุดจากฐานข้อมูลยา&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;ระบบจะนำขนาดยาที่แพทย์สั่งมาเปรียบเทียบกับขนาดยาสูงสุดและต่ำสุดที่แนะนำ&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ถ้าขนาดยาที่สั่งอยู่นอกเหนือช่วงที่แนะนำ&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;- จะมีข้อความแจ้งเตือนว่าขนาดยามากเกินไปหรือน้อยเกินไป&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ถ้าขนาดยาที่สั่งอยู่ภายในช่วงที่แนะนำ&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;- จะมีปุ่ม &quot;ยืนยัน&quot; จะใช้งานได้&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="aVC8Daal__mr3-iGPPfq-3">
+          <mxGeometry x="10" y="40" width="610" height="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
